@@ -1,0 +1,23 @@
+{
+  "name": "babel-tutorial",
+  "version": "1.0.0",
+  "description": "Following Babel tutorial from [sitepoint](https://www.sitepoint.com/understanding-asts-building-babel-plugin/)",
+  "main": "index.js",
+  "scripts": {
+    "run": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newyork-anthonyng/babel-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newyork-anthonyng/babel-tutorial/issues"
+  },
+  "homepage": "https://github.com/newyork-anthonyng/babel-tutorial#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
